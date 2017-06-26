@@ -3,3 +3,6 @@ public class Test{
     System.out.println("helloworld");
   }
 }
+pubic class Too{
+
+}
