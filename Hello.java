@@ -5,4 +5,6 @@ public class Test{
 }
 pubic class Too{
   System.out.println("hello java");
+  System.out.println("hello boy");
 }
+
